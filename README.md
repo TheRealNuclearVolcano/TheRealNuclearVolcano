@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TheRealNuclearVolcano
 - 👀 I’m interested in App and Game Development
 - 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on Pygame Projects and Discord.py Projects(bots)
+- 💞️ I’m looking to collaborate on Python Projects, Pygame Projects and Discord.py Projects(bots)
 - 📫 How to reach me
   - Discord = Nuclear Volcano#2527
 
