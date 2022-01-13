@@ -5,7 +5,8 @@
 - 📫 How to reach me
   - Discord = Nuclear Volcano#2527
 
-### ________________ 
+### ***
+
 ![image](https://github-readme-stats.vercel.app/api/top-langs/?username=TheRealNuclearVolcano&layout=compact&langs_count=8&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=161b22)
 
 <!---
