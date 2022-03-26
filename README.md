@@ -1,9 +1,10 @@
-- 👋 Hi, I’m @TheRealNuclearVolcano
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Unity and C#
-- 💞️ I’m looking to collaborate on Python Projects
-- 📫 How to reach me
-  - Discord = Nuclear Volcano#2527
+Hi! I’m **NuclearVolcano**!
+A High-School Student who's also a Hobbyist Programmer.
+
+I’m mostly interested in Game Development and currently learning Unity and C#
+
+My Website - https://therealnuclearvolcano.github.io
+Discord - Nuclear Volcano#8741
 
 ***
 
