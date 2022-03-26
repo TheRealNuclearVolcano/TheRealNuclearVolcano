@@ -1,9 +1,12 @@
-Hi! I’m **NuclearVolcano**!
-A High-School Student who's also a Hobbyist Programmer.
+### Hi! I’m NuclearVolcano!<br/> A High-School Student who's also a Hobbyist Programmer.
+
+***
 
 I’m mostly interested in Game Development and currently learning Unity and C#
 
-My Website - https://therealnuclearvolcano.github.io
+***
+
+My Website - https://therealnuclearvolcano.github.io<br/>
 Discord - Nuclear Volcano#8741
 
 ***
