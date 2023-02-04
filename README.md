@@ -6,8 +6,8 @@ I’m mostly interested in Game Development and currently learning Unity and C#
 
 ***
 
-My Website - https://therealnuclearvolcano.github.io<br/>
-Discord - Nuclear Volcano#8741
+My Website - [TheRealNuclearVolcano](https://therealnuclearvolcano.github.io)<br/>
+Discord - [Nuclear Volcano#8741](https://discordapp.com/users/955877878984224798)
 
 ***
 
